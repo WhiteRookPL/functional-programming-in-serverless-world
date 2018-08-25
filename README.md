@@ -1,6 +1,6 @@
 # functional-programming-in-serverless-world
 
-**WARNING**: You can find the most recent version of that repository here: https://github.com/patternmatch/functional-programming-in-serverless-world. This one is not maintained anymore.
+**WARNING**: You can find the most recent version of that repository here: [patternmatch/functional-programming-in-serverless-world](https://github.com/patternmatch/functional-programming-in-serverless-world). This one is not maintained anymore.
 
 ## Motivation
 
